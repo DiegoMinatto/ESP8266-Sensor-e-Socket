@@ -1,11 +1,3 @@
-/*
-	Autor: Prof. Vagner Rodrigues
-	Objetivo: Manipulação das GPIOs utilizando SDK-IDF com RTOS (FreeRTOS)
-			  Controlando GPIO por Tasks
-	Disciplina: IoT II
-	Curso: Engenharia da Computação
-*/
-
 /*	Relação entre pinos da WeMos D1 R2 e GPIOs do ESP8266
 	Pinos-WeMos		Função			Pino-ESP-8266
 		TX			TXD				TXD/GPIO1
